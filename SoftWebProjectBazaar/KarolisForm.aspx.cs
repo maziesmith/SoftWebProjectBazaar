@@ -11,7 +11,7 @@ namespace SoftWebProjectBazaar {
 
         }
 
-        protected void Button_Click(object sender, EventArgs e) {
+        protected void btn_click(object sender, EventArgs e) {
 
 
         }
