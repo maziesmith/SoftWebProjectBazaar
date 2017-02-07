@@ -14,9 +14,12 @@ namespace SoftWebProjectBazaar
 
         }
 
-        protected void button1_click(object sender, EventArgs e)
+       
+
+        protected void Button1_Click1(object sender, EventArgs e)
         {
-           
+            Label1.Text = "Hello";
+
         }
     }
 }
