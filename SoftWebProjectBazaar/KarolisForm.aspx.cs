@@ -6,12 +6,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace SoftWebProjectBazaar {
-    public partial class _Default : Page {
+    public partial class KarolisForm : System.Web.UI.Page {
         protected void Page_Load(object sender, EventArgs e) {
-            //test
-            //test
-            //test
-            //test
 
         }
     }
